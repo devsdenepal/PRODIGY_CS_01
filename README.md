@@ -1,6 +1,6 @@
 # PRODIGY_CS_01
 <div align='center'>
-<img src='https://github.com/devsdenepal/PRODIGY_CS_01/assets/111997815/719d631e-417e-4364-b240-a01d73b77d2c'/>
+<img src='https://github.com/devsdenepal/PRODIGY_CS_01/assets/111997815/719d631e-417e-4364-b240-a01d73b77d2c' width="300px" height="400px"/>
 </div>
 <p>This script allows you to encrypt or decrypt a text using a Caesar cipher. You can provide input either via command-line arguments or interactively.</p>
 
